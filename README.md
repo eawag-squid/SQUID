@@ -1,2 +1,2 @@
 # SQUID
-Repository holding user documentation and latest firmware versions.
+Repository holding Eawag's SQUID user documentation and latest firmware versions.
