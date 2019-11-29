@@ -1,0 +1,20 @@
+ECBoard_V3;;;;
+;;;;
+;;;;
+;;;;
+Reference designators;Quantity;MPN;Manufacturer;Description
+R9, R16;2;GPR08051K5;Generic part;0805, Res 1.5kOhm, 150V, 1.0%, 125mW
+C2, C4;2;GPC0805104;Generic part;0805, Cap 100.0nF, 50V, 10.0%, X7R
+R10, R15, R17;3;GPR080510K;Generic part;0805, Res 10.0kOhm, 150V, 1.0%, 125mW
+C7;1;GPC0805106-16;Generic part;0805 MLCC X5R 10UF 10% 16V
+C3, C5, C6;3;GPC0805105;Generic part;0805, Cap 1uF, 50V, 10.0%, X7R
+R1, R2, R5, R6;4;GPR080520K;Generic part;0805, Res 20.0kOhm, 150V, 1.0%, 125mW
+RFB;1;GPR0805470R;Generic part;0805, Res 470.0Ohm, 150V, 1.0%, 125mW
+C1;1;GPC0805473;Generic part;0805, Cap 47.0nF, 50V, 10.0%, X7R
+R3, R4;2;GPR080551K;Generic part;0805, Res 51.0kOhm, 150V, 1.0%, 125mW
+U3;1;AD5933YRSZ;Analog Device;Data Acquisition ADCs/DACs - Specialised IC 12bit 1 MSPS Impedance Cnvtr
+U1;1;AD8606ARZ;Analog Devices;General Purpose Amplifier 2 Circuit Rail-to-Rail 8-SOIC
+X1, X2;2;B4B-ZR(LF)(SN);JST;"4 Positions Header Connector 0.059"" (1.50mm) Through Hole Tin"
+U4;1;RN42-I/RM;Microchip Technology;RF TXRX MOD BLUETOOTH TRACE ANT
+D2;1;LT Q39E-Q1OO-25-1;OSRAM Opto Semiconductors Inc.;Green 530nm LED Indication - Discrete 2.85V 0603 (1608 Metric)
+D1;1;LS Q976-NR-1;Osram Opto;Red 633nm LED Indication - Discrete 2V 0603 (1608 Metric)

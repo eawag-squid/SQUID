@@ -1,0 +1,19 @@
+APMiniMax;;;;
+;;;;
+Reference designators;Quantity;MPN;Manufacturer;Description
+C1, C5;2;GPC1206106-B;Generic part;"10µF 25V Ceramic Capacitor X5R 1206 (3216 Metric) 0.126"" L x 0.063"" W (3.20mm x 1.60mm)"
+C2;1;GPC1206475;Generic part;4.7µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)
+C3, C4, C6, C7, C8, C9;6;GPC0805104;Generic part;0805, Cap 100.0nF, 50V, 10.0%, X7R
+F1;1;MF-PSMF035X-2;Bourns Inc.;Polymeric PTC Resettable Fuse 6V 350mA Ih Surface Mount 0805 (2012 Metric), Concave
+IC1;1;XC6220B331MR-G;Torex Semiconductor;Linear Voltage Regulator IC Positive Fixed 1 Output 3.3V 1A SOT-25
+IC2;1;DS3231SN#;Maxim Integrated;IC, Extremely Accurate I2C-Integrated RTC/TCXO/Crystal
+IC3;1;ATMEGA1284P-AU;Atmel;ATmega Microcontroller IC 8-Bit 20MHz 128KB (64K x 16) FLASH 44-TQFP (10x10)
+LED1, LED2;2;LTST-C171GKT;Lite-On;Green 569nm LED Indication - Discrete 2.1V 0805 (2012 Metric)
+MMC;1;2908-05WB-MG;3M;10 (8 + 2) Position Card Connector Secure Digital - microSDâ„¢ Surface Mount, Right Angle Gold
+Q1;1;FDN340P;Fairchild Semiconductor;MOSFETP-Channel 20V 2A (Ta) 500mW (Ta) Surface Mount SuperSOT-3
+R1, R6;2;GPR08051K5;Generic part;0805, Res 1.5kOhm, 150V, 1.0%, 125mW
+R2, R4, R5;3;GPR0805100K;Generic part;0805, Res 100.0kOhm, 150V, 1.0%, 125mW
+R3, R7;2;GPR080510K;Generic part;0805, Res 10.0kOhm, 150V, 1.0%, 125mW
+SW1;1;KMR231NG LFS;C&K;Tactile Switch SPST-NO Top Actuated Surface Mount
+XTAL;1;CSTCE8M00G52Z-R0;Murata;8MHz Ceramic Resonator Built in Capacitor 10pF ±0.1% -40°C ~ 125°C Surface Mount
+CR1025;1;BK-870;MPD;Battery Retainer Coin, 10.0mm 1 Cell SMD (SMT) Tab
