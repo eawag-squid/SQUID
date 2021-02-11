@@ -1,0 +1,16 @@
+Dear SQUID User,
+
+we hope you enjoy working with the SQUID. If you have any questions, please check the
+SQUID wiki for the lastest HOW-TOs and user instructions at
+
+https://github.com/eawag-squid/SQUID/wiki
+
+or contact us directly.
+
+Best regards,
+Your SQUIDians at Eawag and kofatec
+
+Adrian: 	ako@kofatec.com
+Christian: 	christian.ebi@eawag.ch
+Christoph: 	christoph.ort@eawag.ch
+
